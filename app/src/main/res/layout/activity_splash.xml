@@ -8,4 +8,8 @@
     tools:context="com.senzecit.rclcoin.activity.splashActivity"
     android:background="@drawable/background">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello"/>
 </LinearLayout>
